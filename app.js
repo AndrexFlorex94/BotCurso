@@ -22,13 +22,13 @@ const flowSheets = addKeyword("sheets")
             //await appendToSheet(values); // Agrega datos columna por columna.
 
 
-            // let range = 'Hoja 1!G2';
-            //await writeToSheet(values, range); // Escribe datos en un rango específico.
+            let range = 'Hoja 1!G2';
+            await writeToSheet(values, range); // Escribe datos en un rango específico.
 
             // range = 'Hoja 1!A1:B10';
             //const response = await readSheet(range); // Lee datos de un rango.
 
-            const response = await getFilteredData("C", "USA")
+            //const response = await getFilteredData("C", "USA")
             console.log(response);
 
 
