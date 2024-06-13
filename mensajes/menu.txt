@@ -1,0 +1,5 @@
+Este es el menu, Elige una opcion:
+1:
+2:
+3:
+0 Para salir

@@ -1,0 +1,38 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573226885828@s.whatsapp.net',
+    fromMe: false,
+    id: 'DA49D7A11181C2AC3F',
+    participant: undefined
+  },
+  messageTimestamp: 1718242798,
+  pushName: 'Andres Florez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'SHEETS', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'SHEETS',
+  from: '573226885828'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_42871613-822d-44d5-8fe8-516e27207771',
+  keyword: 'key_0e84a5db-38de-4d64-97c0-cb8db2d25081',
+  answer: 'Este es el flujo Sheets',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '68b6ff85fc1f9bbe72e7abc49f6c9562'
+}
