@@ -29,7 +29,7 @@ const flowSheets = addKeyword("sheets")
             //const response = await readSheet(range); // Lee datos de un rango.
 
             //const response = await getFilteredData("C", "USA")
-            console.log(response);
+            // console.log(response);
 
 
 
